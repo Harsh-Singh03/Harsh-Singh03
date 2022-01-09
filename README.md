@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh-Singh03
 - 👀 I’m interested in Android developement.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Java.
 - 📫 Connect with me at 333harshsingh@gmail.com
 
 <!---
