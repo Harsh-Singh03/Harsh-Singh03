@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harsh-Singh03
-- 👀 I’m interested in Android developement.
+- 👀 I’m interested in Competitive Programming.
 - 🌱 I’m currently learning Java.
 - 📫 Connect with me at www.linkedin.com/in/harsh-singh-7912991b0                    
 <!---
